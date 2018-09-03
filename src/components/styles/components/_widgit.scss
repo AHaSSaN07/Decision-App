@@ -1,0 +1,31 @@
+.widget-header{
+    background-color:#3c4251; 
+    color: #b8c0d4;
+    padding: 10px; 
+    display: flex;
+    justify-content: space-between;
+}
+
+.widget-header--h3{
+    margin:  0;
+}
+
+.widgit {
+    background-color: #525866
+}
+
+.widget-messege{
+    color: #b8c0d4;
+    font-size: 115%;
+}
+
+.input-area {
+    
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color:#333745; 
+}
